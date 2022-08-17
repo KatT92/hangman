@@ -10,9 +10,9 @@ The game asks the user to input a letter using the command line. The input is th
 
 
 ## Functions
-> ask_letter
-> check_letter
-> play_game
+- ask_letter
+- check_letter
+- play_game
 
 ## Error testing
 
