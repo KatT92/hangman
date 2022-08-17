@@ -18,7 +18,7 @@ The game asks the user to input a letter using the command line. The input is th
 
 ## Running the game
 Clone the repo and in the terminal type: 
-    """python hangman_solution.py"""
+    ```python hangman_solution.py```
 
 ## Conclusions
     - Classes/self
